@@ -1,0 +1,5 @@
+Fonts used in this design:
+
+Font: Noto Sans JP
+Author: Google
+Url: https://fonts.google.com/specimen/Noto+Sans+JP
